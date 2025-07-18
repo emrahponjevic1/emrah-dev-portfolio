@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/:path*",
       "destination": "https://mail.ionos.com",
       "permanent": true,
       "has": [
