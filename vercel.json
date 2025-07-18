@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/mail",
+      "destination": "https://mail.ionos.com",
+      "permanent": true
+    }
+  ]
+}
