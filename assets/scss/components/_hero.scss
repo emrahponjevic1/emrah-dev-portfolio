@@ -588,6 +588,7 @@
             justify-content: space-between;
             @media #{$xs} {
                 display: inline-block;
+				width: 100% !important;
             } 
             a {
                 border-radius: 50%;
@@ -1986,6 +1987,7 @@
             justify-content: space-between;
             @media #{$xs} {
                 display: inline-block;
+				width:100%;
             } 
             a {
                 border-radius: 50%;

@@ -528,16 +528,7 @@ img {
     padding: 100px 0 50px !important;
   }
 }
-/*
-============================
-Name:  Ovro - Personal Portfolio Template
-Version: 1.0.0
-Description: Ovro - Personal Portfolio Template
-Author: Vikiglab
-Author URI: https://themeforest.net/user/vikinglab/portfolio
-Location:
-============================
-*/
+
 /*============= HEDAER CSS AREA ===============*/
 /*============= HERO CSS AREA ===============*/
 /*============= MOBILE-MENU CSS AREA ===============*/
@@ -1511,6 +1502,7 @@ Location:
 @media (max-width: 767px) {
   .main-hero-area .hero-heading-area .arrow {
     display: inline-block;
+	width:100%;
   }
 }
 .main-hero-area .hero-heading-area .arrow a {
@@ -3067,6 +3059,8 @@ Location:
 @media (max-width: 767px) {
   .main-hero-area5 .hero-heading-area .arrow {
     display: inline-block;
+	width:100%;
+	text-align:center;
   }
 }
 .main-hero-area5 .hero-heading-area .arrow a {
@@ -3093,6 +3087,7 @@ Location:
 .main-hero-area5 .hero-heading-area .arrow .images {
   display: flex;
   align-items: center;
+  justify-content:center;
 }
 .main-hero-area5 .hero-heading-area .arrow .images p {
   padding-left: 0;
