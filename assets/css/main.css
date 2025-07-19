@@ -523,7 +523,11 @@ img {
   --ztc-family-font1: 'Figtree', sans-serif;
   --ztc-family-font2: 'Playfair Display', serif;
 }
-
+@media screen and (max-width: 768px) {
+  .mobile {
+    padding: 100px 0 50px !important;
+  }
+}
 /*
 ============================
 Name:  Ovro - Personal Portfolio Template
