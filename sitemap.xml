@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Glavna i jedina stranica sajta -->
+  <url>
+    <loc>https://emrah-dev.net/</loc>
+    <lastmod>2025-07-19</lastmod> <!-- !! PROMENI U DANAŠNJI DATUM !! -->
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Najvažnije slike za brending i identitet -->
+    <image:image>
+      <image:loc>https://emrah-dev.net/assets/img/all-images/hero/emrahdev-profile-picture.jpg</image:loc>
+      <image:title>Emrah Ponjević - Web Developer and Graphic Designer</image:title>
+      <image:caption>Professional profile picture of Emrah Ponjević for his portfolio website.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://emrah-dev.net/assets/img/emrahwall.jpg</image:loc>
+      <image:title>emrah-dev.net Social Media Image</image:title>
+      <image:caption>Promotional image for the emrah-dev.net portfolio website.</image:caption>
+    </image:image>
+    
+    <!-- Video u pozadini -->
+    <video:video>
+      <video:thumbnail_loc>https://emrah-dev.net/assets/img/video/video-poster.jpg</video:thumbnail_loc>
+      <video:title>Hero Section Background Video | emrah-dev.net</video:title>
+      <video:description>A dynamic video background for the hero section of the website.</video:description>
+      <video:content_loc>https://emrah-dev.net/assets/img/video/video5.mp4</video:content_loc>
+      <video:duration>20</video:duration> <!-- !! PROVERI I UPIŠI TAČNU DUŽINU VIDEA U SEKUNDAMA !! -->
+    </video:video>
+  </url>
+
+</urlset>
