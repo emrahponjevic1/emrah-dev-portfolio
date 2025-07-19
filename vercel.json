@@ -1,9 +1,15 @@
 {
   "redirects": [
     {
-      "source": "/mail",
+      "source": "/(.*)",
       "destination": "https://mail.ionos.com",
-      "permanent": true
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "mail.emrah-dev.net"
+        }
+      ]
     }
   ]
 }
