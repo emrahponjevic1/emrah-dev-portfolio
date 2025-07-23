@@ -6,7 +6,7 @@
   <!-- Glavna i jedina stranica sajta -->
   <url>
     <loc>https://emrah-dev.net/</loc>
-    <lastmod>2025-07-19</lastmod> <!-- !! PROMENI U DANAŠNJI DATUM !! -->
+    <lastmod>2025-07-23</lastmod> <!-- !! PROMENI U DANAŠNJI DATUM !! -->
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
 
